@@ -1,4 +1,4 @@
-# 🚀 欢迎来到我的 GitHub 仓库！
+# 欢迎来到我的 GitHub 仓库！
 
 ## 📝 关于我
 
@@ -23,8 +23,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![LuaJIT](https://img.shields.io/badge/LuaJIT-0000CD?style=for-the-badge&logo=lua&logoColor=white)
-![易语言](https://img.shields.io/badge/易语言-0078D7?style=for-the-badge)
-![汇编](https://img.shields.io/badge/汇编-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### 🔧 技能领域
 
